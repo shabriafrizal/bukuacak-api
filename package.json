@@ -1,0 +1,18 @@
+{
+  "name": "bukuacak-api",
+  "version": "1.0.0",
+  "description": "A random book API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "cohere-ai": "^7.15.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0"
+  }
+}
